@@ -1,0 +1,2 @@
+Start:
+ruby dbconnector.rb <database-name> <port>
