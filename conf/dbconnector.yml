@@ -1,3 +1,5 @@
-:host: 0.0.0.0
-:server: WEBrick
-:maestro: http://google.com
+:user: consumer1
+:password: some_password
+:vhost: /db2
+:host: localhost
+:port: 5672
